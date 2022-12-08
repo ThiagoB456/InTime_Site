@@ -972,7 +972,7 @@ body {
 
 .our-equipe .hidden-content {
   background: #4FE885;
-  background: linear-gradient(105deg, rgb(30, 255, 161) 0%, rgb(62, 255, 44) 100%);
+  background: linear-gradient(105deg, rgb(8, 131, 59) 0%, rgb(14, 173, 0) 100%);
   padding: 30px;
   border-radius: 20px;
   opacity: 0;
@@ -994,7 +994,7 @@ body {
   bottom: -8px;
   margin-left: -5px;
   transform: rotate(45deg);
-  background: linear-gradient(105deg, rgb(30, 255, 161) 0%, rgb(62, 255, 44) 100%);
+  background: linear-gradient(105deg, rgb(8, 131, 59) 0%, rgb(14, 173, 0) 100%);
   z-index: -1;
 }
 
@@ -1135,7 +1135,7 @@ footer p a {
   }
   .about-us .services .item  {
     background: rgb(255,77,30);
-    background: linear-gradient(105deg, rgb(30, 255, 161) 0%, rgb(62, 255, 44) 100%);
+    background: linear-gradient(105deg, rgb(8, 131, 59) 0%, rgb(14, 173, 0) 100%);
     padding: 30px;
     border-radius: 20px;
     display: inline-block;
